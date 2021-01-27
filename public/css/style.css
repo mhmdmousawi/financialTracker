@@ -1,0 +1,22 @@
+.app_color_default{
+    background-color: #007bff8e;
+}
+
+.titles{
+    margin: auto;
+    left: -40px;
+}
+.titles-dashboard{
+    left: 0px;
+}
+.topten_div{
+    max-height: 420px;
+    /* height: 420px; */
+    display: block;
+    float: left;
+}
+.statistics_div{
+    float: left;
+    height: 100%;
+}
+
